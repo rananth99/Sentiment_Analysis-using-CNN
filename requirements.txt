@@ -1,0 +1,8 @@
+numpy
+math
+pandas as pd
+re
+BeautifulSoup
+tensorflow
+tensorflow_datasets
+keras
